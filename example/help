@@ -1,0 +1,15 @@
+№1
+MongoDB, Mongoengine, Compass, Atlass
+123456
+#Other
++
+s
+
+
+№2
+RabbitMQ
+
+docker run -d --name rabbitmq_hw8 -p 5672:5672 -p 15672:15672 rabbitmq:3.13-management
+user guest pass guest
+
+docker run --name redis-cache -d -p 6379:6379 redis
